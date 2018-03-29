@@ -1,0 +1,7 @@
+home_homepage:
+    path:     /
+    defaults: { _controller: HomeBundle:Default:index }
+
+bat:
+    path:     /bat
+    defaults: { _controller: HomeBundle:Default:bat }
